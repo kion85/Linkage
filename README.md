@@ -3,7 +3,7 @@
 Открой папку в VS Code.
 В терминале введите:
 
-    npm install (жди окончания)
+    npm install 
     npm run dev
 
 Откройте в браузере: http://localhost:3000
